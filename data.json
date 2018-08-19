@@ -1,0 +1,55 @@
+{
+	"details":{
+		"image":"image.png",
+		"name":"sushma",
+		"phno":"6300116574",
+		"email":"sushmabegumshaik5a2@gmail.com",
+		"address":"vignan,guntur"
+	},
+	"career":{
+		"info":"career choice is a challenging task"
+	},
+	"education":[{
+		"qualification":"b-tech",
+		"institute":"vignan",
+		"year":"2016-2020",
+		"percentage":"80%"
+	},
+	{
+		"qualification":"intermediate",
+		"institute":"narayana",
+		"year":"2014-2016",
+		"percentage":"91%"
+
+	},
+	{
+		"qualification":"ssc",
+		"institute":"narayana",
+		"year":"2013-2014",
+		"percentage":"85%"
+	}
+	],
+	"technicalskills":[{
+		"title":"programming languages",
+		"info":["c,c++,java,python,r-programming"]
+	},
+	{	"title":"databases",
+		"info":["sql,mysql,oracle"]
+	},
+	{
+		"title":"operating systems",
+		"info":["windows,macos,unix,"]
+	}
+],
+	"achievements":[
+		{
+			"title":"first in group discussion"
+		},
+		{
+				"title":"certified by apsanskrithi"
+		},
+		{
+					"title":"winner in throwball"
+		}
+		]
+}
